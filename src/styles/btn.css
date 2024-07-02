@@ -1,0 +1,12 @@
+.G-btn{
+	background: #005815;
+	color: #fff;
+	border-radius: 3px;
+}
+
+.P-btn{
+	background: #d2fbdb;
+	color: #000;
+	border-radius: 3px;
+    border-width: 0;
+}

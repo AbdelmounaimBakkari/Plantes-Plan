@@ -1,0 +1,22 @@
+.lmj-banner {
+	background-image: linear-gradient(rgba(89, 248, 112, 0.5), rgba(181, 242, 161, 0.5)),
+					  url(../assets/banner-bg.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.lmj-title {
+	padding-left: 32px;
+}
+
+.lmj-logo {
+	height: 70px;
+	width: 70px;
+}
